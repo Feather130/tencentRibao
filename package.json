@@ -1,0 +1,23 @@
+{
+  "name": "tencentribao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Feather130/tencentRibao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Feather130/tencentRibao/issues"
+  },
+  "homepage": "https://github.com/Feather130/tencentRibao#readme",
+  "dependencies": {
+    "ejsexcel": "^3.5.2",
+    "request": "^2.85.0"
+  }
+}
